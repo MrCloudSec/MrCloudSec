@@ -11,8 +11,8 @@
 <div align="center">
 
 You've reached the GitHub profile of <strong>MrCloudSec</strong>. <br>
-As a Cloud Security Engineer and main maintainer of [Prowler](https://github.com/prowler-cloud/prowler), <br>I’m passionate about securing the cloud and building open-source tools for a safer digital world. <br>
-<br>Stay Secure!</br>🔐
+As a Cloud Security Engineer and main maintainer of [Prowler](https://github.com/prowler-cloud/prowler), <br>I’m passionate about securing the cloud and building open-source tools for a safer digital world.
+<br><strong>Stay Secure! </strong>🔐
 
 </div>
 
