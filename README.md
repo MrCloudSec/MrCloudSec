@@ -2,10 +2,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b5c75e2e-e7bc-42a2-ad31-ea556d1e99ed" alt="Welcome!" width="300"/>
 
-  <h1>
-    Hey there, <𝚌𝚕𝚘𝚞𝚍𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚜/>! 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
-  </h1>
+  # Hey there, <𝚌𝚕𝚘𝚞𝚍𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚜/>!
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
   <p>
     <strong>Sergio Garcia</strong> · <strong>MrCloudSec</strong> 🔐☁️<br/>
@@ -16,21 +14,22 @@
 
   <!-- Social badges -->
   <a href="https://linkedin.com/in/mistercloudsec">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 <br/>
   <a href="https://twitter.com/MrCloudSec">
     <img src="https://img.shields.io/twitter/follow/MrCloudSec"/>
   </a>
 
-  <br/><br/>
+  
+  
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MrCloudSec&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCloudSec&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrCloudSec&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" alt="GitHub stats for MrCloudSec" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCloudSec&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages GitHub stats for MrCloudSec" />
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MrCloudSec&theme=tokyonight&no-frame=true&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrCloudSec&theme=tokyonight&no-frame=true&column=8" alt="GitHub trophies for MrCloudSec" />
 </div>
 
 ---
