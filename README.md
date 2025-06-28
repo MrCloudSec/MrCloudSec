@@ -1,9 +1,10 @@
 <!-- README.md -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b5c75e2e-e7bc-42a2-ad31-ea556d1e99ed" alt="Welcome!" width="300"/>
-
-  # Hey there, <𝚌𝚕𝚘𝚞𝚍𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚜/>!
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
+  <h1>
+    Hey there, <𝚌𝚕𝚘𝚞𝚍𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚜/>! 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
+  </h1>
 
   <p>
     <strong>Sergio Garcia</strong> · <strong>MrCloudSec</strong> 🔐☁️<br/>
@@ -16,23 +17,28 @@
   <a href="https://linkedin.com/in/mistercloudsec">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-<br/>
-  <a href="https://twitter.com/MrCloudSec">
+  <a href="https://twitter.com/intent/follow?screen_name=MrCloudSec">
     <img src="https://img.shields.io/twitter/follow/MrCloudSec"/>
   </a>
-
-  
-  
+  <a href="mailto:hello@mistercloudsec.com">
+    <img src="https://img.shields.io/badge/Email-hello%40mistercloudsec.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <br/>
+  <br/>
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MrCloudSec&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" alt="GitHub stats for MrCloudSec" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCloudSec&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages GitHub stats for MrCloudSec" />
-
+  <br/>
+  <br/>
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=MrCloudSec&theme=tokyonight&no-frame=true&column=8" alt="GitHub trophies for MrCloudSec" />
 </div>
+<br/>
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
@@ -45,10 +51,10 @@
 
 ## 📚 About Me
 
-- 🔒 Passionate about **automating threat detection** in AWS, GCP & Azure  
-- 🏅 **AWS Solutions Architect – Pro** & **AWS Security – Specialty** certified  
-- 🎓 **AWS Authorized Instructor** & MSc Cybersecurity  
-- 🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
+🔒 Passionate about **automating threat detection** in AWS, GCP & Azure  
+🏅 **AWS Solutions Architect – Pro** & **AWS Security – Specialty** certified  
+🎓 **AWS Authorized Instructor** & MSc Cybersecurity  
+🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
 
 ---
 
@@ -66,9 +72,10 @@
 
 ## 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
+[Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
 <!-- BLOG-POST-LIST:END -->
-
+</div>
+<br/>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrCloudSec.MrCloudSec" alt="Visitor count"/>
 </p>
