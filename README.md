@@ -10,7 +10,6 @@
     <strong>Sergio Garcia</strong> · <strong>MrCloudSec</strong> 🔐☁️<br/>
     Senior Cloud Security Engineer · Main maintainer of 
     <a href="https://github.com/prowler-cloud/prowler">Prowler</a><br/>
-    Creator of <a href="https://github.com/MrCloudSec/CloudSecGPT">CloudSecGPT</a>
   </p>
 
   <!-- Social badges -->
@@ -45,7 +44,6 @@
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**Prowler**](https://github.com/prowler-cloud/prowler) | 🎯 Open-source multi-cloud security tool (AWS, Azure, GCP) | ![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social) |
-| [**CloudSecGPT**](https://github.com/MrCloudSec/CloudSecGPT) | 🤖 AI assistant that super-charges cloud-security findings with AI | ![GitHub stars](https://img.shields.io/github/stars/MrCloudSec/CloudSecGPT?style=social) |
 
 ---
 
