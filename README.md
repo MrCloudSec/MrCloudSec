@@ -70,7 +70,7 @@
 
 ## 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Bedrock’s New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)
+[Bedrock’s New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)<br/>
 [Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
 <!-- BLOG-POST-LIST:END -->
 </div>
