@@ -8,7 +8,7 @@
 
   <p>
     <strong>Sergio Garcia</strong> · <strong>MrCloudSec</strong> 🔐☁️<br/>
-    Senior Cloud Security Engineer · Main maintainer of 
+    Founding Security Engineer of 
     <a href="https://github.com/prowler-cloud/prowler">Prowler</a><br/>
   </p>
 
@@ -70,6 +70,7 @@
 
 ## 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+[Bedrock’s New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)
 [Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
 <!-- BLOG-POST-LIST:END -->
 </div>
