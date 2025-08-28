@@ -27,11 +27,8 @@
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MrCloudSec&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" alt="GitHub stats for MrCloudSec" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCloudSec&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages GitHub stats for MrCloudSec" />
   <br/>
   <br/>
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MrCloudSec&theme=tokyonight&no-frame=true&column=8" alt="GitHub trophies for MrCloudSec" />
 </div>
 <br/>
 
