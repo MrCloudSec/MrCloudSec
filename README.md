@@ -1,7 +1,6 @@
 <!-- README.md -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b5c75e2e-e7bc-42a2-ad31-ea556d1e99ed" alt="Welcome!" width="300"/>
-  <h1>
   <h1>Hi, I'm Sergio Garcia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1>
   <h3>Cloud Security Researcher & Founding Engineer of <a href="https://github.com/prowler-cloud/prowler">Prowler</a><br/></h3>
   <p><strong>@MrCloudSec</strong> 🔐☁️</p>
@@ -30,7 +29,7 @@
 
 ## 📚 About Me
 
-🔒 Passionate about **automating threat detection** in AWS, GCP & Azure  
+🔒 Passionate about **automating threat detection** in AWS, GCP, Azure, Oracle Cloud & Kubernetes
 🏅 **AWS Solutions Architect – Pro** & **AWS Security – Specialty** certified  
 🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
 🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
