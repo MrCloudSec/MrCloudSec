@@ -27,12 +27,12 @@
 
 ---
 
-## 📚 About Me
+## 🚀 Highlights
 
-🔒 Passionate about **automating threat detection** in AWS, GCP, Azure, Oracle Cloud & Kubernetes
-🏅 **AWS Solutions Architect – Pro** & **AWS Security – Specialty** certified  
-🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
-🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
+- 🔒 Passionate about **automating threat detection** in AWS, GCP, Azure, Oracle Cloud & Kubernetes
+- 🏅 **AWS Solutions Architect – Professional** & **AWS Security – Specialty** certified  
+- 🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
+- 🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
 
 ---
 
