@@ -25,16 +25,19 @@
 </div>
 <br/>
 
----
+<div align="center">
 
 ## 🚀 Highlights
 
-- 🔒 Passionate about **automating threat detection** in AWS, GCP, Azure, Oracle Cloud & Kubernetes
-- 🏅 **AWS Solutions Architect – Professional** & **AWS Security – Specialty** certified  
-- 🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
-- 🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
+🔒 Passionate about **automating threat detection** in AWS, GCP, Azure, Oracle Cloud & Kubernetes
 
----
+🏅 **AWS Solutions Architect – Professional** & **AWS Security – Specialty** certified  
+
+🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
+
+🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
+
+
 
 ## 🛠 Tech Stack
 
@@ -46,7 +49,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
 
 ## 💡 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -58,3 +60,4 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrCloudSec.MrCloudSec" alt="Visitor count"/>
 </p>
+</div>
