@@ -2,15 +2,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b5c75e2e-e7bc-42a2-ad31-ea556d1e99ed" alt="Welcome!" width="300"/>
   <h1>
-    Hey there, <𝚌𝚕𝚘𝚞𝚍𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢_𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚜/>! 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
-  </h1>
-
-  <p>
-    <strong>Sergio Garcia</strong> · <strong>MrCloudSec</strong> 🔐☁️<br/>
-    Founding Security Engineer of 
-    <a href="https://github.com/prowler-cloud/prowler">Prowler</a><br/>
-  </p>
+  <h1>Hi, I'm Sergio Garcia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1>
+  <h3>Cloud Security Researcher & Founding Engineer of <a href="https://github.com/prowler-cloud/prowler">Prowler</a><br/></h3>
+  <p><strong>@MrCloudSec</strong> 🔐☁️</p>
 
   <!-- Social badges -->
   <a href="https://linkedin.com/in/mistercloudsec">
@@ -34,21 +28,11 @@
 
 ---
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**Prowler**](https://github.com/prowler-cloud/prowler) | 🎯 Open-source multi-cloud security tool (AWS, Azure, GCP) | ![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social) |
-
----
-
 ## 📚 About Me
 
 🔒 Passionate about **automating threat detection** in AWS, GCP & Azure  
 🏅 **AWS Solutions Architect – Pro** & **AWS Security – Specialty** certified  
-🎓 **AWS Authorized Instructor** & MSc Cybersecurity  
+🎓 **AWS Authorized Instructor** & M.S. in Cybersecurity  
 🎤 **Speaker** at fwd:cloudsec 2024, DEF CON 2022, Security BSides Las Vegas 2022  
 
 ---
