@@ -21,7 +21,7 @@
 
   **Stack:** AWS (Pro/Security Certified), Azure, GCP, Oracle Cloud, Kubernetes, Python, Go, Terraform, Docker.
 
-  **Community:** Speaker at fwd:cloudsec, DEF CON, ROOTCON, and BSides.
+  **Community:** Speaker at fwd:cloudsec, DEF CON, RootedCON, and BSides.
 
 
   ### 💡 My Latest Research
