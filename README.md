@@ -33,6 +33,7 @@ Security Researcher focused on AI and Cloud security, identity-centric attack pa
 ### Talks
 
 - **RootedCON Madrid 2025**: Practical Threat Detection and Remediation in the Cloud
+- **Seasides India 2025**: Open Source Multi-Cloud Security with Prowler: A Practitioner's Guide
 - **[fwd:cloudsec North America 2024](https://www.youtube.com/watch?v=4v6Y6NZne8c)**: Forged in Fire: Forging Multi-Cloud Open Source Swiss-Army Knife
 - **DEF CON Cloud Village 2022**: Prowler Open Source Cloud Security: A Deep Dive Workshop
 - **BSides Las Vegas 2022**: Prowler Open Source Cloud Security: A Deep Dive Workshop
