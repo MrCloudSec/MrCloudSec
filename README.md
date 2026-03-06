@@ -32,6 +32,7 @@ Security Researcher focused on AI and Cloud security, identity-centric attack pa
 
 ### Talks
 
+- **RootedCON Madrid 2026**: The Phantom of the Infrastructure: The Invisible Threat in Bedrock API Keys
 - **BSides Seattle 2026**: The Phantom of the Infrastructure: Investigating the Hidden IAM Risks in Bedrock API Keys
 - **RootedCON Madrid 2025**: Practical Threat Detection and Remediation in the Cloud
 - **Seasides India 2025**: Open Source Multi-Cloud Security with Prowler: A Practitioner's Guide
