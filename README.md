@@ -21,7 +21,7 @@
 
 ### About
 
-Security Researcher focused on AI and Cloud security, identity-centric attack paths, and automated threat detection.
+Security Researcher focused on AI and Cloud security, with recent work on AWS Bedrock and AgentCore, identity-centric attack paths, and automated threat detection.
 
 **Stack:** AWS, Azure, GCP, Oracle Cloud, Kubernetes, Python, Go, Terraform, Docker.
 
@@ -32,6 +32,14 @@ Security Researcher focused on AI and Cloud security, identity-centric attack pa
 - [The AWS Bedrock API Keys Security Guide Part 2: Detection, Prevention, and Response](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-guide-api-keys-detection-response)
 - [Bedrock's New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)
 - [Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
+
+### CVEs
+
+- [CVE-2026-11931](https://www.cve.org/CVERecord?id=CVE-2026-11931) - World-readable auth token in Kiro IDE (Medium)
+
+### Tools
+
+- [bedrock-keys-security](https://github.com/BeyondTrust/bedrock-keys-security) - security toolkit for AWS Bedrock API keys: scanning, key forensics, privilege-escalation analysis, and incident response
 
 ### Talks
 
