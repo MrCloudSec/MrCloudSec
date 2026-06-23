@@ -27,6 +27,7 @@ Security Researcher focused on AI and Cloud security, identity-centric attack pa
 
 ### Research
 
+- [Mapping Every Privilege Escalation Path in AWS AgentCore](https://www.beyondtrust.com/blog/entry/aws-agentcore-privilege-escalation)
 - [The AWS Bedrock API Keys Security Guide Part 1: Risks, Vulnerabilities, and Attack Techniques](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-api-keys)
 - [The AWS Bedrock API Keys Security Guide Part 2: Detection, Prevention, and Response](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-guide-api-keys-detection-response)
 - [Bedrock's New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)
