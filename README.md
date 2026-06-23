@@ -23,8 +23,6 @@
 
 Security Researcher focused on AI and Cloud security, with recent work on AWS Bedrock and AgentCore, identity-centric attack paths, and automated threat detection.
 
-**Stack:** AWS, Azure, GCP, Oracle Cloud, Kubernetes, Python, Go, Terraform, Docker.
-
 ### Research
 
 - [Mapping Every Privilege Escalation Path in AWS AgentCore](https://www.beyondtrust.com/blog/entry/aws-agentcore-privilege-escalation)
@@ -35,7 +33,7 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### CVEs
 
-- [CVE-2026-11931](https://www.cve.org/CVERecord?id=CVE-2026-11931) - World-readable auth token in Kiro IDE (Medium)
+- [CVE-2026-11931](https://www.cve.org/CVERecord?id=CVE-2026-11931) - World-readable auth token in Kiro IDE (Medium, CVSS 6.8)
 
 ### Tools
 
