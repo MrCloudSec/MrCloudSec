@@ -28,8 +28,8 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### CVEs
 
-- [CVE-2026-16796](https://www.cve.org/CVERecord?id=CVE-2026-16796) - Command injection via pip extras in the Amazon Bedrock AgentCore Python SDK (High, CVSS 8.4)
-- [CVE-2026-12530](https://www.cve.org/CVERecord?id=CVE-2026-12530) - Command injection via newline in the Amazon Bedrock AgentCore Python SDK (High, CVSS 8.4)
+- [CVE-2026-16796](https://www.cve.org/CVERecord?id=CVE-2026-16796) - RCE via pip extras in the AgentCore Python SDK (High, CVSS 8.4)
+- [CVE-2026-12530](https://www.cve.org/CVERecord?id=CVE-2026-12530) - RCE via a newline in the AgentCore Python SDK (High, CVSS 8.4)
 - [CVE-2026-11931](https://www.cve.org/CVERecord?id=CVE-2026-11931) - World-readable auth token in Kiro IDE (Medium, CVSS 6.8)
 
 ### Tools
