@@ -19,6 +19,7 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### Research
 
+- [Package Name to Role Credentials in Code Interpreter: Two RCE CVEs in the AgentCore Python SDK](https://www.beyondtrust.com/blog/entry/amazon-bedrock-agentcore-python-sdk-rce-cves)
 - [Mapping Every Privilege Escalation Path in AWS AgentCore](https://www.beyondtrust.com/blog/entry/aws-agentcore-privilege-escalation)
 - [The AWS Bedrock API Keys Security Guide Part 1: Risks, Vulnerabilities, and Attack Techniques](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-api-keys)
 - [The AWS Bedrock API Keys Security Guide Part 2: Detection, Prevention, and Response](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-guide-api-keys-detection-response)
@@ -27,6 +28,8 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### CVEs
 
+- [CVE-2026-16796](https://www.cve.org/CVERecord?id=CVE-2026-16796) - Command injection via pip extras in the Amazon Bedrock AgentCore Python SDK (High, CVSS 8.4)
+- [CVE-2026-12530](https://www.cve.org/CVERecord?id=CVE-2026-12530) - Command injection via newline in the Amazon Bedrock AgentCore Python SDK (High, CVSS 8.4)
 - [CVE-2026-11931](https://www.cve.org/CVERecord?id=CVE-2026-11931) - World-readable auth token in Kiro IDE (Medium, CVSS 6.8)
 
 ### Tools
@@ -35,6 +38,7 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### Talks
 
+- **[Black Hat Arsenal USA 2026](https://blackhat.com/us-26/arsenal/schedule/index.html#bedrock-keys-security-bks-hunting-phantom-iam-users-created-by-aws-bedrock-api-keys-52541)**: Bedrock Keys Security (BKS): Hunting Phantom IAM Users Created by AWS Bedrock API Keys
 - **RootedCON Madrid 2026**: The Phantom of the Infrastructure: The Invisible Threat in Bedrock API Keys
 - **[BSides Seattle 2026](https://www.youtube.com/watch?v=v3wvjb9Gu-c)**: The Phantom of the Infrastructure: Investigating the Hidden IAM Risks in Bedrock API Keys
 - **RootedCON Madrid 2025**: Practical Threat Detection and Remediation in the Cloud
