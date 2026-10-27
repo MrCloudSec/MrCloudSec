@@ -19,12 +19,18 @@ Security Researcher focused on AI and Cloud security, with recent work on AWS Be
 
 ### Research
 
-- [Package Name to Role Credentials in Code Interpreter: Two RCE CVEs in the AgentCore Python SDK](https://www.beyondtrust.com/blog/entry/amazon-bedrock-agentcore-python-sdk-rce-cves)
+- [Package Name to Role Credentials in Code Interpreter: Two RCE CVEs in the AgentCore Python SDK](https://www.beyondtrust.com/blog/entry/amazon-bedrock-agentcore-python-sdk-rce-cves)<br>
+  <sub>Featured in [AWS Security Digest #281](https://awssecuritydigest.com/past-issues/aws-security-digest-281) · [CloudSecList #358](https://cloudseclist.com/issues/issue-358/)</sub>
+
 - [Mapping Every Privilege Escalation Path in AWS AgentCore](https://www.beyondtrust.com/blog/entry/aws-agentcore-privilege-escalation)
+
 - [The AWS Bedrock API Keys Security Guide Part 1: Risks, Vulnerabilities, and Attack Techniques](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-api-keys)
-- [The AWS Bedrock API Keys Security Guide Part 2: Detection, Prevention, and Response](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-guide-api-keys-detection-response)
-- [Bedrock's New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)
-- [Securing Your Amazon Bedrock Environments With Prowler](https://prowler.com/blog/securing-your-amazon-bedrock-environments-with-prowler/)
+
+- [The AWS Bedrock API Keys Security Guide Part 2: Detection, Prevention, and Response](https://www.beyondtrust.com/blog/entry/aws-bedrock-security-guide-api-keys-detection-response)<br>
+  <sub>Featured in [tl;dr sec #329](https://tldrsec.com/p/tldr-sec-329) · [CloudSecList #338](https://cloudseclist.com/issues/issue-338/)</sub>
+
+- [Bedrock's New API Keys: Convenience at a Hidden Security Cost](https://prowler.com/blog/bedrocks-new-api-keys-convenience-at-a-hidden-security-cost/)<br>
+  <sub>Featured in [AWS Security Digest #223](https://awssecuritydigest.com/past-issues/aws-security-digest-223)</sub>
 
 ### CVEs
 
